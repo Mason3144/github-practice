@@ -1,4 +1,4 @@
 # github-practice
 using features such as project, milestone, issue
 
-attempt making merge conflict
+2nd attempt making merge conflict
